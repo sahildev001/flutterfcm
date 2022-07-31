@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079259920025",
+    "firebase_url": "https://flutterfirebase-7fe99-default-rtdb.firebaseio.com",
+    "project_id": "flutterfirebase-7fe99",
+    "storage_bucket": "flutterfirebase-7fe99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079259920025:android:5ccc8e08de1e350ae6aa08",
+        "android_client_info": {
+          "package_name": "com.sahil.fcm_mobile_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079259920025-11hnuo4qmnjj81hkq7f1tkfptv17mdia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqRFHpGPzdntTCeehD1gNZplLaIDaZIdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079259920025-11hnuo4qmnjj81hkq7f1tkfptv17mdia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079259920025-cuj8nn8t02n7i0vlgaceap1vt7e980u0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sahil.fcmMobileWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
