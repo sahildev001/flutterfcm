@@ -4,13 +4,34 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# FCM FLutter
 
-A few resources to get you started if this is your first Flutter project:
+## [Install flutter docs](https://docs.flutter.dev/get-started/install?gclid=Cj0KCQjw0JiXBhCFARIsAOSAKqBDlNI4y4PGXUM4mSW9X4y4OnHyUQtUA5eQpzF83ZwwfUANzD2t3xEaAkWNEALw_wcB&gclsrc=aw.ds)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Cloud messaging docs]( https://firebase.flutter.dev/docs/messaging/overview)
+
+## [Real time database docs]( https://firebase.flutter.dev/docs/database/overview)
+
+
+
+
+# Steps
+
+- ## Install flutter
+- ## clone project
+  ```
+  git clone https://github.com/sahildev001/flutteerfcm.git
+  ```
+ - ## run
+     ```
+    flutter pub get
+    ```
+  - ## Create Firebase project
+  - ## use firebase cli
+      ```
+      firebase login
+      dart pub global activate flutterfire_cli
+      flutterfire configure
+     ```
+  
